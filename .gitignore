@@ -55,8 +55,6 @@ cover/
 *.mo
 *.pot
 
-# Database
-.sqlite3
 
 # Django stuff:
 *.log
